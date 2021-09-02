@@ -1,0 +1,13 @@
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.exe
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.deps.json
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.runtimeconfig.json
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.runtimeconfig.dev.json
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.dll
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\bin\Debug\netcoreapp3.1\Exercise49_50.pdb
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.csproj.AssemblyReference.cache
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.AssemblyInfo.cs
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.csproj.CoreCompileInputs.cache
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.dll
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.pdb
+C:\Users\me\source\repos\Exercise49_50\Exercise49_50\obj\Debug\netcoreapp3.1\Exercise49_50.genruntimeconfig.cache
